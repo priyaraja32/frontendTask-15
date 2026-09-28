@@ -141,7 +141,7 @@ export default function Register() {
 
               <div>
                 <h2 className="text-xl font-bold">
-                  Shop<span className="text-rose-100">Nest</span>
+                  Shopsy<span className="text-rose-100">Cart</span>
                 </h2>
 
                 <p className="text-[9px] tracking-[0.25em] text-rose-100">
