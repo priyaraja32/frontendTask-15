@@ -75,7 +75,7 @@ export default function Login() {
 
               <div>
                 <h2 className="text-xl font-bold">
-                  Shop<span className="text-rose-200">Nest</span>
+                  Shopsy<span className="text-rose-200">Cart</span>
                 </h2>
 
                 <p className="text-[9px] tracking-[0.25em] text-rose-100">
@@ -152,7 +152,7 @@ export default function Login() {
             <div>
 
               <p className="text-sm font-semibold text-rose-500 mb-2">
-                Welcome back 👋
+                Welcome back
               </p>
 
               <h2 className="text-4xl font-extrabold text-gray-900 tracking-tight">
