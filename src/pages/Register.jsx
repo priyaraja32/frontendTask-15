@@ -242,7 +242,7 @@ export default function Register() {
               <div>
 
                 <h2 className="text-xl font-bold text-gray-900">
-                  Shop<span className="text-rose-500">Nest</span>
+                  Shopsy<span className="text-rose-500">Cart</span>
                 </h2>
 
                 <p className="text-[9px] tracking-[0.2em] text-gray-400">
@@ -257,7 +257,7 @@ export default function Register() {
             <div>
 
               <p className="text-sm font-semibold text-rose-500 mb-2">
-                Get started ✨
+                Get started...
               </p>
 
               <h1 className="text-3xl sm:text-4xl font-extrabold text-gray-900">
@@ -468,7 +468,7 @@ export default function Register() {
             </p>
 
             <p className="text-center text-xs text-gray-400 mt-8">
-              © 2026 ShopNest. Your smart shopping destination.
+              @ 2026 ShopNest. Your smart shopping destination.
             </p>
 
           </div>
