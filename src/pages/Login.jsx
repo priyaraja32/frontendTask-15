@@ -107,7 +107,7 @@ export default function Login() {
               <p className="mt-6 text-rose-50/90 leading-7">
                 Discover products you love, save your favorites,
                 and enjoy a simple and beautiful shopping experience
-                with ShopNest.
+                with ShopsyCart.
               </p>
 
             </div>
@@ -297,7 +297,7 @@ export default function Login() {
 
             {/* Bottom */}
             <p className="text-center text-xs text-gray-400 mt-10">
-              © 2026 ShopNest. Your smart shopping destination.
+              @ 2026 ShopsyCart. Your smart shopping destination.
             </p>
 
           </div>
