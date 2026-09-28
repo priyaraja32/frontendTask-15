@@ -76,7 +76,7 @@ export default function Footer() {
                 className="text-rose-500"
               />
 
-              support@shopnest.com
+              support@ShopsyCart.com
 
             </div>
 
@@ -360,7 +360,7 @@ export default function Footer() {
               text-gray-500
             "
           >
-            @2026 ShopNest. All rights reserved.
+            @2026 ShopsyCart. All rights reserved.
           </p>
 
 
